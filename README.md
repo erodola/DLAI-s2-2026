@@ -67,6 +67,22 @@ We may require an oral exam in doubtful cases or whenever necessary.
 
 Exam is now project-only, but you can still find some past theoretical questions [here](https://drive.google.com/drive/folders/1hwafIolYEOEjJYRnyKg2kodFqgKDZklZ)
 
+## Running the Notebooks
+
+### Online
+In class, we suggest to run the notebooks via Google Colab. It's a free, online jupyter environment that allows to run python code with (limited) access to free low-tier GPUs. 
+
+### Locally
+All the notebooks can just as well be ran locally on your own machine by opening them in your favourite development environment (VS Code, PyCharm...). To do so, you need to create a *python environment* containing all the libraries that are used in the code.
+
+The **only** correct way to create python environments is by using [uv](https://docs.astral.sh/uv/). You simply:
+- install `uv` from their website;
+- open the directory `labs` in your terminal and run `uv sync`. 
+Then, you will have a correct, functioning environment (called `labs`) inside `labs/.venv`.
+
+If you have never created python environments or used `uv` before, give the `uv` documentation a read: it's very easy to understand.
+
+
 ## Lectures 🗣️
 
 **Date** | **Topic** | **Reading** | **Code & Data**
