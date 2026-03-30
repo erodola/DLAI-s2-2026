@@ -3,6 +3,7 @@
 Course material, 2nd semester a.y. 2025/2026, Dept. of Computer Science
 
 ## News 🗞️
+- **30/03/2026:** No lecture on **April 7-8-14** due to Easter holidays and exam sessions. The lecture of **April 15 will not be a lab**, so make sure to be there!
 - **10/02/2026:** The course website is online. Welcome to DLAI 2025/26! **The course will start on Tue 24th February**.
 
 ## Logistics 🧭
@@ -97,6 +98,11 @@ Tue 17 Mar | Stochastic gradient descent | [slides](https://github.com/erodola/D
 Wed 18 Mar | Logistic Regression and Optimization | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2026/blob/main/labs/04_Logistic_Regression_and_Optimization.ipynb)
 Tue 24 Mar | Multi-layer perceptron and back-propagation | [slides](https://github.com/erodola/DLAI-s2-2026/raw/main/07_mlp/07-mlp.pdf) |
 Wed 25 Mar | Autograd and Modules | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2026/blob/main/labs/05_Autograd_and_Modules.ipynb)
-
+Tue 31 Mar | Convolutional neural networks | [slides](https://github.com/erodola/DLAI-s2-2026/raw/main/08_cnn/08-cnn.pdf) |
+Wed 01 Apr | Convolutional neural networks | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2026/blob/main/labs/06_Convolutional_Neural_Networks.ipynb)
+Tue 07 Apr | **Easter holidays** |  |  
+Wed 08 Apr | **No teaching due to exam sessions** |  |  
+Tue 14 Apr | **No teaching due to exam sessions** |  |  
+Wed 15 Apr | *TBD* |  |  
 
 **End**
