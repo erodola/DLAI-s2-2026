@@ -62,7 +62,9 @@ Evaluation proceeds according to the following steps:
 
 We may require an oral exam in doubtful cases or whenever necessary.
 
-- Project list: *TBD*
+- Project list: Check the [guidelines](https://github.com/erodola/DLAI-s2-2026/raw/main/guidelines.pdf).
+- The template for the final project report is [here](https://github.com/erodola/DLAI-s2-2026/raw/main/template.zip).
+- Please read the material above carefully!
 
 ## Past exams 📑 
 
