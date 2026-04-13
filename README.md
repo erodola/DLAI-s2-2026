@@ -3,6 +3,7 @@
 Course material, 2nd semester a.y. 2025/2026, Dept. of Computer Science
 
 ## News 🗞️
+- **13/04/2026:** The **project topics and guidelines** have been published. Scroll down for details.
 - **30/03/2026:** No lecture on **April 7-8-14** due to Easter holidays and exam sessions. The lecture of **April 15 will not be a lab**, so make sure to be there!
 - **10/02/2026:** The course website is online. Welcome to DLAI 2025/26! **The course will start on Tue 24th February**.
 
