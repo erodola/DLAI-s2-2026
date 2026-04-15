@@ -106,6 +106,6 @@ Wed 01 Apr | Convolutional neural networks | | [![Open In Colab](https://colab.r
 Tue 07 Apr | **Easter holidays** |  |  
 Wed 08 Apr | **No teaching due to exam sessions** |  |  
 Tue 14 Apr | **No teaching due to exam sessions** |  |  
-Wed 15 Apr | *TBD* |  |  
+Wed 15 Apr | Industry Seminars: Michele Mancusi and Giulio Starace |  |  
 
 **End**
