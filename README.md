@@ -109,7 +109,7 @@ Tue 14 Apr | **No teaching due to exam sessions** |  |
 Wed 15 Apr | Industry Seminars: Michele Mancusi and Giulio Starace |  |  
 Tue 21 Apr | Technical Seminar: Alessandro Bartolocci | coming soon! |
 Wed 22 Apr | Efficient Deep Learning | coming soon! |
-Tue 28 Apr | Programming Seminar: Alessandro Bartolocci | coming soon! |
+Tue 28 Apr | GPU Programming Seminar: Alessandro Bartolocci | coming soon! |
 
 
 **End**
