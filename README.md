@@ -108,7 +108,7 @@ Wed 08 Apr | **No teaching due to exam sessions** |  |
 Tue 14 Apr | **No teaching due to exam sessions** |  |  
 Wed 15 Apr | Industry Seminars: Michele Mancusi and Giulio Starace |  |  
 Tue 21 Apr | Engineering Seminar: Alessandro Bartolocci | coming soon! |
-Wed 22 Apr | Research Seminar: Daniele Solombrino | coming soon! |
+Wed 22 Apr | Research Seminar: Daniele Solombrino | [slides](https://github.com/erodola/DLAI-s2-2026/blob/main/10_quantization/Quantization%20-%20Part%20I.pdf) |
 Tue 28 Apr | Engineering Seminar: Alessandro Bartolocci | coming soon! |
 
 
