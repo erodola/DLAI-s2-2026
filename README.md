@@ -109,7 +109,7 @@ Tue 14 Apr | **No teaching due to exam sessions** |  |
 Wed 15 Apr | Industry Seminars: Michele Mancusi and Giulio Starace |  |  
 Tue 21 Apr | Engineering Seminar: Alessandro Bartolocci | [slides](https://github.com/erodola/DLAI-s2-2026/blob/main/11_gpu/11_gpu.pdf) |
 Wed 22 Apr | Research Seminar: Daniele Solombrino | [slides](https://github.com/erodola/DLAI-s2-2026/blob/main/10_quantization/Quantization%20-%20Part%20I.pdf) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2026/blob/main/labs/08a_Pruning.ipynb)
-Tue 28 Apr | Engineering Seminar: Alessandro Bartolocci and Daniele Solombrino | coming soon! |
+Tue 28 Apr | Engineering Seminar: Alessandro Bartolocci | |
 Wed 29 Apr | Uncertainty, regularization and the deep learning toolset ; Batchnorm and dropout | [slides](https://github.com/erodola/DLAI-s2-2026/blob/main/09_regular/09-regular.pdf) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2026/blob/main/labs/07_Uncertainty_regularization_and_the_DL_toolset.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2026/blob/main/labs/07b_Batchnorm_and_dropout.ipynb)
 
 
