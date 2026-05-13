@@ -115,6 +115,6 @@ Wed 29 Apr | Uncertainty, regularization and the deep learning toolset ; Batchno
 Tue 05 May | PCA and VAEs | [slides](https://github.com/erodola/DLAI-s2-2026/raw/main/12_pcavae/12-pcavae.pdf) |
 Wed 06 May | VAEs and VQ-VAEs | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2026/blob/main/labs/09_Variational_Autoencoders_(VAEs).ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2026/blob/main/labs/09b_VQ-VAEs.ipynb) |
 Tue 12 May | Diffusion models | [notes](https://github.com/erodola/DLAI-s2-2026/raw/main/13_diffusion/diffusion.pdf) ; [source](https://github.com/erodola/DLAI-s2-2026/raw/main/13_diffusion/diffusion.zip) ; [DDPM notes](https://github.com/erodola/DLAI-s2-2026/raw/main/13_diffusion/DDPM_notes.pdf) |
-Wed 13 May | Flow matching | *upcoming* | *upcoming*
+Wed 13 May | Flow matching | [DDPM notes](https://github.com/erodola/DLAI-s2-2026/raw/main/13_diffusion/DDPM_notes.pdf) | [notebook](https://www.kaggle.com/code/mariopaerle/flow-matching-notebook)
 
 **End**
