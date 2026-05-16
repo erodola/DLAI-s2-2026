@@ -3,6 +3,7 @@
 Course material, 2nd semester a.y. 2025/2026, Dept. of Computer Science
 
 ## News 🗞️
+- **16/05/2026:** The course ends on **May 26**.
 - **10/05/2026:** The OPIS code for this course is **QN1EYJFM**.
 - **13/04/2026:** The **project topics and guidelines** have been published. Scroll down for details.
 - **30/03/2026:** No lecture on **April 7-8-14** due to Easter holidays and exam sessions. The lecture of **April 15 will not be a lab**, so make sure to be there!
@@ -107,7 +108,7 @@ Wed 01 Apr | Convolutional neural networks | | [![Open In Colab](https://colab.r
 Tue 07 Apr | **Easter holidays** |  |  
 Wed 08 Apr | **No teaching due to exam sessions** |  |  
 Tue 14 Apr | **No teaching due to exam sessions** |  |  
-Wed 15 Apr | Industry Seminars: Michele Mancusi and Giulio Starace |  |  
+Wed 15 Apr | Industry Seminars: Michele Mancusi (*Moises, ex-Sony*) and Giulio Starace (*Paradigma, ex-OpenAI*) |  |  
 Tue 21 Apr | Engineering Seminar: Alessandro Bartolocci -- CUDA Architecture, Memory and Kernel Optimization | [slides](https://github.com/erodola/DLAI-s2-2026/blob/main/11_gpu/11_gpu.pdf) |
 Wed 22 Apr | Research Seminar: Daniele Solombrino -- Quantization and Pruning | [slides](https://github.com/erodola/DLAI-s2-2026/blob/main/10_quantization/Quantization%20-%20Part%20I.pdf) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2026/blob/main/labs/08a_Pruning.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2026/blob/main/labs/08b_Quantization.ipynb)
 Tue 28 Apr | Engineering Seminar: Alessandro Bartolocci | |
@@ -116,5 +117,8 @@ Tue 05 May | PCA and VAEs | [slides](https://github.com/erodola/DLAI-s2-2026/raw
 Wed 06 May | VAEs and VQ-VAEs | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2026/blob/main/labs/09_Variational_Autoencoders_(VAEs).ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2026/blob/main/labs/09b_VQ-VAEs.ipynb) |
 Tue 12 May | Diffusion models | [notes](https://github.com/erodola/DLAI-s2-2026/raw/main/13_diffusion/diffusion.pdf) ; [source](https://github.com/erodola/DLAI-s2-2026/raw/main/13_diffusion/diffusion.zip) ; [DDPM notes](https://github.com/erodola/DLAI-s2-2026/raw/main/13_diffusion/DDPM_notes.pdf) |
 Wed 13 May | Flow matching | [DDPM notes](https://github.com/erodola/DLAI-s2-2026/raw/main/13_diffusion/DDPM_notes.pdf) | [notebook](https://www.kaggle.com/code/mariopaerle/flow-matching-notebook)
+Tue 19 May | Towards Artificial Scientific Discovery | *slides upcoming* |
+Wed 20 May | Self-attention and transformers ; Modern perspectives on LLMs | [slides](https://github.com/erodola/DLAI-s2-2026/raw/main/14_trans/14-trans.pdf) ; *more slides upcoming* | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2026/blob/main/labs/11_Transformers.ipynb)
+Tue 26 May | TBD |  |
 
 **End**
