@@ -117,8 +117,8 @@ Tue 05 May | PCA and VAEs | [slides](https://github.com/erodola/DLAI-s2-2026/raw
 Wed 06 May | VAEs and VQ-VAEs | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2026/blob/main/labs/09_Variational_Autoencoders_(VAEs).ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2026/blob/main/labs/09b_VQ-VAEs.ipynb) |
 Tue 12 May | Diffusion models | [notes](https://github.com/erodola/DLAI-s2-2026/raw/main/13_diffusion/diffusion.pdf) ; [source](https://github.com/erodola/DLAI-s2-2026/raw/main/13_diffusion/diffusion.zip) ; [DDPM notes](https://github.com/erodola/DLAI-s2-2026/raw/main/13_diffusion/DDPM_notes.pdf) |
 Wed 13 May | Flow matching | [DDPM notes](https://github.com/erodola/DLAI-s2-2026/raw/main/13_diffusion/DDPM_notes.pdf) | [notebook](https://www.kaggle.com/code/mariopaerle/flow-matching-notebook)
-Tue 19 May | Towards Artificial Scientific Discovery | *slides upcoming* |
-Wed 20 May | Self-attention and transformers ; Modern perspectives on LLMs | [slides](https://github.com/erodola/DLAI-s2-2026/raw/main/14_trans/14-trans.pdf) ; *more slides upcoming* | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2026/blob/main/labs/11_Transformers.ipynb)
-Tue 26 May | TBD |  |
+Tue 19 May | Towards Artificial Scientific Discovery |  |
+Wed 20 May | Self-attention and transformers | [slides](https://github.com/erodola/DLAI-s2-2026/raw/main/14_trans/14-trans.pdf) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2026/blob/main/labs/11_Transformers.ipynb)
+Tue 26 May | Modern perspectives on LLMs | *slides upcoming* |
 
 **End**
