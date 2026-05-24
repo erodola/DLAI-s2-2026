@@ -119,6 +119,6 @@ Tue 12 May | Diffusion models | [notes](https://github.com/erodola/DLAI-s2-2026/
 Wed 13 May | Research Lab: Mario Prignano -- Flow matching | [DDPM notes](https://github.com/erodola/DLAI-s2-2026/raw/main/13_diffusion/DDPM_notes.pdf) | [notebook](https://www.kaggle.com/code/mariopaerle/flow-matching-notebook)
 Tue 19 May | Research Seminar: Antonio Norelli (*MIT, ex-Oxford*) -- Towards Artificial Scientific Discovery |  |
 Wed 20 May | Self-attention and transformers | [slides](https://github.com/erodola/DLAI-s2-2026/raw/main/14_trans/14-trans.pdf) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/DLAI-s2-2026/blob/main/labs/11_Transformers.ipynb)
-Tue 26 May | Modern perspectives on LLMs | *slides upcoming* |
+Tue 26 May | Modern understanding of LLMs and Mechanistic Interpretability | *slides upcoming* |
 
 **End**
