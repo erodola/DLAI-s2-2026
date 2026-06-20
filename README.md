@@ -54,7 +54,7 @@ Each exam session has **cutoff dates** for submitting the project.
 
 Only projects that are (i) submitted *before* the cutoff date and (ii) registered on Infostud will be graded.
 
-- 19 June 2026 - *cutoff date 12 June*
+- ~19 June 2026 - *cutoff date 12 June*~
 - 17 July 2026 - *cutoff date 10 July*
 - 18 September 2026 - *cutoff date 11 September*
 
